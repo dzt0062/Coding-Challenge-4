@@ -110,6 +110,7 @@ toxin.box8
 Within the YAML header I chose an html format; 
  output: 
   html_document
+  
 ### b. GitHub flavored markdown 
  md_document:
     variant: gfm
@@ -125,5 +126,6 @@ Created a new repository specifically for this assignment
 
 # Question 6
 ## Please turn in the file generated in question 3a to canvas with a clickable link to your GitHub repository within the document. 
+[CC4 Repository](https://github.com/dzt0062/Coding-Challenge-4/tree/main)
 
 
